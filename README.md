@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake Game with Obstacles 🐍
 
 [Leer en español](./README.es.md)
@@ -87,3 +88,6 @@ Adapt the interface and controls so the game is playable on smartphones and tabl
 
 Do you have more ideas? Contributions and suggestions are welcome!
 Have fun playing around and improving the code!
+=======
+# snake_game
+>>>>>>> 113aa3e8012d4828232ea984522270e0119be0d4
