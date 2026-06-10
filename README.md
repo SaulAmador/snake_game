@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Snake Game with Obstacles 🐍
 
 [Leer en español](./README.es.md)
